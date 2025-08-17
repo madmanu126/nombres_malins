@@ -2,7 +2,7 @@
   "name": "nombres_malins",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://madmanu126.github.io/nombres_malins",
+  "homepage": "https://madmanu126.github.io/nombres_malins",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
@@ -30,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
