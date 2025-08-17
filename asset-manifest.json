@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nombres_malins/static/css/main.c1bec968.css",
+    "main.js": "/nombres_malins/static/js/main.91678f87.js",
+    "static/media/logo.svg": "/nombres_malins/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nombres_malins/index.html",
+    "main.c1bec968.css.map": "/nombres_malins/static/css/main.c1bec968.css.map",
+    "main.91678f87.js.map": "/nombres_malins/static/js/main.91678f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1bec968.css",
+    "static/js/main.91678f87.js"
+  ]
+}
